@@ -1,1 +1,5 @@
-Proiect POO, urmarind tutorialul lui Lazy Foo pt sdl 
+#Project for OOP 
+##folowing Lazy foo tutorial for sdl
+
+curently under development
+
